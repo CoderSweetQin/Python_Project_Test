@@ -1,0 +1,44 @@
+2017-07-05 13:44:00,230 - root - INFO - aaaa
+2017-07-05 13:44:00,231 - root - INFO - <unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[]>]>, <unittest.suite.TestSuite tests=[<unittest.suite.TestSuite tests=[]>, <unittest.suite.TestSuite tests=[<DFBLoginCase.DFBLoginCase testMethod=test_login001>]>]>, <unittest.suite.TestSuite tests=[]>]>
+2017-07-05 13:44:00,231 - root - INFO - 打开文件，并且做修改
+2017-07-05 13:44:00,234 - root - INFO - E://webuiPY3/report
+2017-07-05 13:44:00,235 - root - INFO - ############################### NEW CASE START ###############################
+2017-07-05 13:44:05,746 - root - INFO - 打开了火狐浏览器
+2017-07-05 13:44:06,102 - root - INFO - 垫付宝管理台登录
+2017-07-05 13:44:36,905 - root - INFO - Error details :Unable to locate element: {"method":"id","selector":"passWord1"}
+2017-07-05 13:44:36,905 - root - INFO - Login 异常原因:'NoneType' object has no attribute 'send_keys'
+2017-07-05 13:44:36,906 - root - INFO - 打开垫付宝管理台会员中心模块
+2017-07-05 13:45:07,585 - root - INFO - Error details :Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div[1]/select"}
+2017-07-05 13:45:07,756 - root - INFO - ###############################  END  ###############################
+2017-07-05 13:45:08,607 - root - INFO - 发送邮件成功
+2017-07-05 13:45:08,610 - root - INFO - **************************用例执行概况*****************************
+
+2017-07-05 13:45:08,611 - root - INFO - Start Time:2017-07-05 13:44:00
+
+2017-07-05 13:45:08,613 - root - INFO - Duration:0:01:07.522862
+
+2017-07-05 13:45:08,614 - root - INFO - Status:Error 1
+
+2017-07-05 13:45:08,615 - root - INFO - 详情请查询 HTML Report
+2017-07-05 13:45:08,616 - root - INFO - ********************1********************
+2017-07-05 13:45:11,618 - root - INFO - 打开文件，并且做修改
+2017-07-05 13:45:11,622 - root - INFO - E://webuiPY3/report
+2017-07-05 13:45:11,625 - root - INFO - ############################### NEW CASE START ###############################
+2017-07-05 13:45:17,238 - root - INFO - 打开了火狐浏览器
+2017-07-05 13:45:17,658 - root - INFO - 垫付宝管理台登录
+2017-07-05 13:45:48,406 - root - INFO - Error details :Unable to locate element: {"method":"id","selector":"passWord1"}
+2017-07-05 13:45:48,407 - root - INFO - Login 异常原因:'NoneType' object has no attribute 'send_keys'
+2017-07-05 13:45:48,407 - root - INFO - 打开垫付宝管理台会员中心模块
+2017-07-05 13:46:19,001 - root - INFO - Error details :Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div[1]/select"}
+2017-07-05 13:46:19,130 - root - INFO - ###############################  END  ###############################
+2017-07-05 13:46:19,302 - root - INFO - 发送邮件成功
+2017-07-05 13:46:19,303 - root - INFO - **************************用例执行概况*****************************
+
+2017-07-05 13:46:19,304 - root - INFO - Start Time:2017-07-05 13:45:11
+
+2017-07-05 13:46:19,304 - root - INFO - Duration:0:01:07.507862
+
+2017-07-05 13:46:19,305 - root - INFO - Status:Error 1
+
+2017-07-05 13:46:19,305 - root - INFO - 详情请查询 HTML Report
+2017-07-05 13:46:19,306 - root - INFO - ********************1********************

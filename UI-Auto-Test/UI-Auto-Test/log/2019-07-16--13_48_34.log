@@ -1,0 +1,21 @@
+2019-07-16 13:48:34,869 - root - INFO - D:/BaiduNetdiskDownload/All/All/AllInHere/auto-ui/report
+2019-07-16 13:48:34,870 - root - INFO - ############################### NEW CASE START ###############################
+2019-07-16 13:49:11,012 - root - INFO - 打开了谷歌浏览器
+2019-07-16 13:49:14,232 - root - INFO - open the booking agent!!!
+2019-07-16 13:49:14,233 - root - INFO - click a button!!!
+2019-07-16 13:49:59,953 - root - INFO - click a herf!!!
+2019-07-16 13:50:05,039 - root - INFO - chooice a hotel!!!
+2019-07-16 13:50:34,156 - root - INFO - chooice a package!!!
+2019-07-16 13:51:40,320 - root - INFO - openPage 打开异常原因:Message: Cannot locate option with value: American Express
+
+2019-07-16 13:51:42,459 - root - INFO - ###############################  END  ###############################
+2019-07-16 13:51:43,674 - root - INFO - 发送邮件成功
+2019-07-16 13:51:43,695 - root - INFO - **************************用例执行概况*****************************
+
+2019-07-16 13:51:43,696 - root - INFO - Start Time:2019-07-16 13:48:34
+
+2019-07-16 13:51:43,697 - root - INFO - Duration:0:03:07.590710
+
+2019-07-16 13:51:43,698 - root - INFO - Status:Pass 1
+
+2019-07-16 13:51:43,699 - root - INFO - 详情请查询 HTML Report

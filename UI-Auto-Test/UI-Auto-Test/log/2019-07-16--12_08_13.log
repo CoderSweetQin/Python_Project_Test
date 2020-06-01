@@ -1,0 +1,19 @@
+2019-07-16 12:08:13,829 - root - INFO - D:/BaiduNetdiskDownload/All/All/AllInHere/auto-ui/report
+2019-07-16 12:08:13,830 - root - INFO - ############################### NEW CASE START ###############################
+2019-07-16 12:08:45,326 - root - INFO - 打开了谷歌浏览器
+2019-07-16 12:08:48,500 - root - INFO - open the booking agent!!!
+2019-07-16 12:08:48,501 - root - INFO - click a button!!!
+2019-07-16 12:09:09,589 - root - INFO - click a herf!!!
+2019-07-16 12:09:14,673 - root - INFO - chooice a hotel!!!
+2019-07-16 12:09:43,757 - root - INFO - chooice a package!!!
+2019-07-16 12:10:17,235 - root - INFO - ###############################  END  ###############################
+2019-07-16 12:10:17,796 - root - INFO - 发送邮件成功
+2019-07-16 12:10:17,798 - root - INFO - **************************用例执行概况*****************************
+
+2019-07-16 12:10:17,798 - root - INFO - Start Time:2019-07-16 12:08:13
+
+2019-07-16 12:10:17,799 - root - INFO - Duration:0:02:03.408477
+
+2019-07-16 12:10:17,799 - root - INFO - Status:Pass 1
+
+2019-07-16 12:10:17,800 - root - INFO - 详情请查询 HTML Report

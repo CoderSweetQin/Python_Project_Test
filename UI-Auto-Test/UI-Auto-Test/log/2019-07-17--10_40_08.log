@@ -1,0 +1,18 @@
+2019-07-17 10:40:08,991 - root - INFO - D:/BaiduNetdiskDownload/All/All/AllInHere/auto-ui/report
+2019-07-17 10:40:08,992 - root - INFO - ############################### NEW CASE START ###############################
+2019-07-17 10:40:46,580 - root - INFO - 打开了谷歌浏览器
+2019-07-17 10:40:49,827 - root - INFO - open the booking agent!!!
+2019-07-17 10:41:44,758 - root - INFO - Error details :no such element: Unable to locate element: {"method":"css selector","selector":"[id="V151_C1_AR_ctl12_RateRoomSectionHeaderCntrl_ToggleTextDiv"]"}
+  (Session info: chrome=75.0.3770.100)
+2019-07-17 10:41:44,759 - root - INFO - openPage 打开异常原因:'NoneType' object has no attribute 'click'
+2019-07-17 10:41:46,924 - root - INFO - ###############################  END  ###############################
+2019-07-17 10:41:47,284 - root - INFO - 发送邮件成功
+2019-07-17 10:41:47,285 - root - INFO - **************************用例执行概况*****************************
+
+2019-07-17 10:41:47,285 - root - INFO - Start Time:2019-07-17 10:40:08
+
+2019-07-17 10:41:47,286 - root - INFO - Duration:0:01:37.932142
+
+2019-07-17 10:41:47,286 - root - INFO - Status:Pass 1
+
+2019-07-17 10:41:47,287 - root - INFO - 详情请查询 HTML Report
