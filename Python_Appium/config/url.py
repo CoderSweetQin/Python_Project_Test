@@ -1,0 +1,26 @@
+base_test_url = "http://azure-www.baidu.test.com"
+base_dfb_url = "http://azure-backend.che052.com"
+base_test_app_login = "http://azure-mobile-app.baidu.test.com"
+
+"""APP查询青盈剩余可投金额"""
+query_qy_amount = "http://azure-mobile-app.baidu.test.com/nbigfront/nw/entrance/newmt/getQYYYRemainAmountMerge/json"
+# open_qyloan = "192.168.214.122:9000/qy_amount_open?phone_amount=1000%2C16871786795%2Cche052"
+
+"""青盈开标：借款申请，获取submitToken值接口"""
+host_qy_submit_token = base_test_url + "/entrance/mt/getSubmitToken/json"
+"""青盈开标：借款申请接口"""
+host_qy_open = base_test_url + "/entrance/mt/buildLoanApply/json"
+"""青盈开标成功后：初审接口"""
+host_qy_first_audit = base_dfb_url + "/backend-test/audit/firstAudit"
+"""青盈开标成功后：初审，复审认领接口"""
+host_qy_receiveTask = base_dfb_url + "/backend-test/receive/receiveTask"
+"""青盈开标成功后：复审接口"""
+host_qy_secondAudit = base_dfb_url + "/backend-test/audit/secondAudit"
+"""APP登录接口"""
+host_test_app_login = base_test_app_login + "/nbigfront/nw/entrance/apis/device/newcheckauthorizationlogin/json"
+
+"""test管理台登录接口"""
+host_admin_login = base_dfb_url + "/login"
+
+"""前台登录接口"""
+host_test_front_login = base_test_url + "/entrance/security/login/json"
